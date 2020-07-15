@@ -1,0 +1,20 @@
+.bg{
+  display: flex;
+  background-color: cornflowerblue;
+  justify-content: space-between;
+}
+.name{
+font-size: x-large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: black;
+}
+.add{
+text-decoration: underline;
+font-family: 'Franklin Gothic Medium';
+font-size: x-large;
+}
+.foto{
+  height: 620px;
+  width: 500px;
+  border:solid salmon 3px;
+}
